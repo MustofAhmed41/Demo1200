@@ -4,10 +4,17 @@
 
 void iDraw()
 {
-	iClear();
+	
 	iFilledRectangle(10, 10, 100, 100);
 	iSetColor(255, 255, 255);
-	/// did something new
+	iFilledRectangle(10, 10, 100, 100);
+	iSetColor(255, 255, 255);
+iFilledRectangle(10, 10, 100, 100);
+	iSetColor(255, 255, 255);
+iFilledRectangle(10, 10, 100, 100);
+	iSetColor(255, 255, 255);
+iFilledRectangle(10, 10, 100, 100);
+	iSetColor(255, 255, 255);
 
 }
 
