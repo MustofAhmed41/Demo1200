@@ -5,9 +5,12 @@
 void iDraw()
 {
 	iClear();
-	iFilledRectangle(10, 10, 100, 100);
-	iSetColor(255, 255, 255);
-	/// did something new
+	iClear();
+	iClear();
+	iClear();
+	iClear();
+	iClear();
+	iClear();
 
 }
 
